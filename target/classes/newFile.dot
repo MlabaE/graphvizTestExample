@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+    <Employees>
+        <employee>
+        <jobTitleName>Developer</jobTitleName>
+        <firstName>Simplifying</firstName>
+        <lastName>Tech</lastName>
+        <emailAddress>simplifyingTech@gmail.com</emailAddress>
+        <phoneNumber>702-1234217</phoneNumber>
+        <preferredFullName>Simplifying Tech</preferredFullName>
+        <region>WC</region>
+        <userId>simplifyingTech</userId>
+        <employeeCode>A1</employeeCode>
+        </employee>
+        <employee>
+            <jobTitleName>Developer</jobTitleName>
+            <firstName>Joe</firstName>
+            <lastName>Doe</lastName>
+            <emailAddress>joeDoeTech@gmail.com</emailAddress>
+            <phoneNumber>702-1234567</phoneNumber>
+            <preferredFullName>Joe Doe</preferredFullName>
+            <region>NW</region>
+            <userId>joeDoe</userId>
+            <employeeCode>A1</employeeCode>
+        </employee>
+    </Employees>
+</root>
